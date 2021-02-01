@@ -1,4 +1,4 @@
-# qrle
+# QRLE
 Простой генератор QR-кодов из ссылок и текста.
 ## Описание
 ![logo](https://github.com/NeoCreat0r/qrle/blob/main/Builder/logo.jpg)
